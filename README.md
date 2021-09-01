@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 姓名：Yang Xirui
+- 学号：3119005482
+- 班级：19级信息安全2班
+- Github: https://github.com/ORonaldinhoO
+- 兴趣爱好：Language, football, music
+- 学习方向：ML, DL, NLP
+- 组织：GDUT RDC Center
