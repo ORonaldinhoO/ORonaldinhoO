@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Name：Ray
-- GDUT RDC Center
+- Name: Ray
+- PolyU DSA
